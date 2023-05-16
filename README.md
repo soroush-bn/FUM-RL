@@ -1,9 +1,37 @@
 # FUM-RL
 
-## Resources
+## Resources 
+#### learning RL
+- Reinforcement Learning: An Introduction Book by Andrew Barto and Richard S. Sutton [(link)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- David Silver lectures [(youtube link)]()
+- Deep RL course by Surgey Levine [(youtube link)]()
+- Hugging face hands-on courses [(link)](https://huggingface.co/learn/deep-rl-course/unit1/introduction)
+- Reinforcement Learning Algorithms: An Overview And Classification. [arxive](https://arxiv.org/pdf/2209.14940.pdf)
+
+#### Interpretable RL
+- [A survey on interpretable reinforcement learning](https://arxiv.org/abs/2112.13112)
+- summary of above survey can be found [(here)]()
+
+#### Prototypycal RL
 
 
-## What we have done:
+
+## What we have done so far:
+
+* Implementing ProtoX paper code [(link)](https://github.com/soroush-bn/ProtoX)
+* Training PPO agent for supermario bros 
+
 
 
 ## Future works
+* Impementing ProtoCad 
+
+
+
+## Tools and Frameworks
+
+- we use gymnasium as the main library for our experiments [(docs)](https://gymnasium.farama.org/)
+-- some papers used gym which is a depricated version of gymnasium; you can see differences and migration tips [here]()
+- check [here](https://gymnasium.farama.org/environments/third_party_environments/) for third-party enviroment integrated with gym
+- [stable baseline3](https://github.com/DLR-RM/stable-baselines3) is a great repository that implemented most of the RL algorithms. [see doc](https://stable-baselines3.readthedocs.io/en/master/), you can find pre-trained agents for many gym games on [stable baseline zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+- a great visualization and logger tool [commet:link](https://www.comet.com/get-started)
