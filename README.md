@@ -10,9 +10,10 @@
 
 #### Interpretable RL
 - [A survey on interpretable reinforcement learning](https://arxiv.org/abs/2112.13112)
-- summary of above survey can be found [(here)]()
+- summary of the above survey can be found [(here)](https://github.com/soroush-bn/interpretable-RL)
 
 #### Prototypycal RL
+- ProtoCad [(arxive)](https://arxiv.org/abs/2211.12774)
 
 
 
