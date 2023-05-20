@@ -14,6 +14,7 @@
 
 #### Prototypycal RL
 - ProtoCad [(arxive)](https://arxiv.org/abs/2211.12774)
+- RSSM [arxive](https://arxiv.org/pdf/1801.10395.pdf) [youtube](https://www.youtube.com/watch?v=6E7yJUiYL6c)
 
 
 
