@@ -37,6 +37,7 @@
 -- some papers used gym which is a depricated version of gymnasium; you can see differences and migration tips [here]()
 - check [here](https://gymnasium.farama.org/environments/third_party_environments/) for third-party enviroment integrated with gym
 - [stable baseline3](https://github.com/DLR-RM/stable-baselines3) is a great repository that implemented most of the RL algorithms. [see doc](https://stable-baselines3.readthedocs.io/en/master/), you can find pre-trained agents for many gym games on [stable baseline zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+- some useful examples of stable baseline3 [link](https://github.com/DLR-RM/stable-baselines3/blob/master/docs/guide/examples.rst)
 - a great visualization and logger tool [commet:link](https://www.comet.com/get-started)
 
 ## Extras 
