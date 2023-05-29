@@ -23,6 +23,7 @@
 
 * Implementing ProtoX paper code [(link)](https://github.com/soroush-bn/ProtoX)
 * Training PPO agent for supermario bros 
+* Helper functions for preprocessing Pong enviroment [(notebook)](https://colab.research.google.com/drive/12t8ujGsGklMKQ7qlKnxTtsEiFhHaeFAA#scrollTo=gcOYiesTnhzy)
 
 
 
